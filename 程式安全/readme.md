@@ -64,24 +64,24 @@ https://discord.gg/FVJd7khv
 ## 影片連結
 |章節名稱|影片連結|
 |:------|:-------------|
-|(CH1)Program Structure + Security Option|https://youtu.be/ZraMzBnT-94|
-|(CH2)Tools|https://youtu.be/DZ8c81Gck2k|
-|(CH3-1)Bof - Local Variable|https://youtu.be/UmLr0_B6yqc|
-|(CH3-2)Bof - Local Variable|https://youtu.be/UqqqxYYeGXA|
-|(CH4-1)Bof - ret2code|https://youtu.be/Db_BQsv9MmA|
-|(CH4-2)Bof - ret2code|https://youtu.be/9wvb09WNwn0|
-|(CH5-1)Bof - ret2sc|https://youtu.be/VABqxI20ySE|
-|(CH5-2)Bof - ret2sc|https://youtu.be/KKZ8YkSSb8I|
-|(CH6-1)Bof - ret2libc|https://youtu.be/lR0-nQpX56c|
-|(CH6-2)Bof - ret2libc|https://youtu.be/H21YofSTazY|
-|(CH7-1)ROP|https://youtu.be/EsbUdf0_EY8|
-|(CH7-2)ROP|https://youtu.be/XsC5GxYGUmU|
-|(CH8-1)Format String|https://youtu.be/vfHs9kxh0_A|
-|(CH8-2)Format String|https://youtu.be/kgA2ZNpwic4|
-|(CH8-3)Format String|https://youtu.be/-0dYnQtMjBU|
-|(CH8-4)Format String|https://youtu.be/RGalgUT2VFM|
-|(CH9-1)Stack Migration|https://youtu.be/LibVsrE20R0|
-|(CH9-2)Stack Migration|https://youtu.be/f7YMBK2MY84|
+|(CH1)Program Structure + Security Option|https://youtu.be/gbtyHa38ysM?si=U-9j4LsdusxpuRxu|
+|(CH2)Tools|https://youtu.be/aaxEaxQ8pbQ?si=OWo6fMQJEfoi3YUt|
+|(CH3-1)Bof - Local Variable|https://youtu.be/AIAuMicuut0?si=C2zKLlnHxaPbqxwI|
+|(CH3-2)Lab - Luck|https://youtu.be/JRQE2l9cyYs?si=8EazcckqpQf2aWmd|
+|(CH4-1)Bof - ret2code|https://youtu.be/TQOvviIGctc?si=8TDA4u2lvIf--Xc4|
+|(CH4-2)Lab - return|https://youtu.be/qgfd_pjbCoY?si=30QN1wJNjv2Le2jM|
+|(CH5-1)Bof - ret2sc|https://youtu.be/xaaqedYvbN0?si=ekTU4dvp0W6F9jxC|
+|(CH5-2)Lab - ret2sc|https://youtu.be/zRWE8jB4zaE?si=dF2RpM-Y_BSrwCE3|
+|(CH6-1)Bof - ret2libc|https://youtu.be/VGC_a4r3S-8?si=APZdpHfuf6Mieqjh|
+|(CH6-2)Lab - ret2libc|https://youtu.be/MiJfBzcf8RQ?si=2CIgEpIBLJX1ZJnp|
+|(CH7-1)ROP|https://youtu.be/T6K-1un8Nq4?si=0C4Xlb9cCm0ia9zN|
+|(CH7-2)Lab -plt|https://youtu.be/Ss7o2DY91BY?si=WV6QVu2ebVHVbdrX|
+|(CH8-1)Format String(Read)|https://youtu.be/Sh0qjGtRFV0?si=tehB6IU1z-LCZEtq|
+|(CH8-2)Lab -fmtstr|https://youtu.be/kO7Rv476EKo?si=ZnlBVWJ8Ud4QFYZ3|
+|(CH8-3)Format String(Write)|https://youtu.be/dXtl--1GFOo?si=m_ybF4O-E33u2SKX|
+|(CH8-4)Lab -fmt-2|https://youtu.be/X2TwV89ELcM?si=W7F55crzbz1nVUN-|
+|(CH9-1)Stack Migration|https://youtu.be/ogr66Mc-YOk?si=KcnpXdHJhn01Wkf6|
+|(CH9-2)Lab -migration|https://youtu.be/CyS_BSxnqDY?si=vpxMXMPdhfHr1_W_|
 | Fuzzing Testing | https://youtu.be/WEBGTCJktiU |
 
 # [課程問題提問表單](https://forms.gle/vQLPQjxrJ9BsvWUV9)
