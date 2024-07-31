@@ -21,10 +21,10 @@ https://gntuedutw-my.sharepoint.com/:f:/g/personal/f08921a05_g_ntu_edu_tw/EsLGAw
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
 ```
 
-# [Discord課程聊天室](https://discord.gg/FVJd7khv)
+# [Discord課程聊天室](https://discord.gg/UU3UTGTM)
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-https://discord.gg/FVJd7khv
+https://discord.gg/UU3UTGTM
 ```
 
 
