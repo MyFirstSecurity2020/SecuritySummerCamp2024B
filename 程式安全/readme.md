@@ -31,7 +31,8 @@ https://gntuedutw-my.sharepoint.com/:f:/g/personal/f08921a05_g_ntu_edu_tw/EsLGAw
 
 # [Discord課程聊天室](https://discord.gg/UU3UTGTM)
 ```
-學員可以聊天室上互相提問學習(講師也會不定時上線)
+請學員加進聊天室後將暱稱改為自己的姓名(講師會設定權限)
+進聊天室後學員可以聊天室上互相提問學習(講師也會不定時上線)
 https://discord.gg/UU3UTGTM
 ```
 
