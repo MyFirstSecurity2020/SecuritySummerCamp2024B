@@ -15,7 +15,7 @@ https://gntuedutw-my.sharepoint.com/:f:/g/personal/f08921a05_g_ntu_edu_tw/EsLGAw
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|2024-Reverse101-CTF|[平台連結](http://)|
+|2024-Reverse101-CTF|[平台連結](http://140.110.112.225)|
 ```
 平台開放時間：8月5日09:00~8月10日16:30
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
