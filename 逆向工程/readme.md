@@ -74,7 +74,7 @@ https://discord.gg/UU3UTGTM
 https://forms.gle/vQLPQjxrJ9BsvWUV9
 ```
 
-## 8月10日(日) 18:00-21:00 陳憶賢講師線上Q&A(若學生沒問題將會提前結束)
+## 8月10日(六) 18:00-21:00 陳憶賢講師線上Q&A(若學生沒問題將會提前結束)
 https://meet.google.com/bho-tnfm-icn
 
 # [回饋問卷](https://forms.gle/5hveqkTEsL6CpRto7)
